@@ -1,6 +1,6 @@
 # Quakex
 
-**TODO: Add description**
+Elixir bindings to the [tectonic](https://github.com/tectonic-typesetting/tectonic) Latex engine.
 
 ## Installation
 
